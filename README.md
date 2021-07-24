@@ -1,2 +1,4 @@
 # api-mock
-api mock 处理
+
+
+根据 services 中注释，自动生成文档及模拟数据
